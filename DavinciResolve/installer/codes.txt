@@ -1,3 +1,0 @@
-# Trage hier Code und Discord ID ein, getrennt durch Komma (eine Kombination pro Zeile)
-CODE1,1096811034624393307
-CODE2,987654321098765432 
