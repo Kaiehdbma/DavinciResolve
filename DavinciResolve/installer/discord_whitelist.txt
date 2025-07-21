@@ -1,3 +1,0 @@
-# Trage hier die Discord IDs ein, die das Tool nutzen dürfen (eine pro Zeile)
-1026811034624393323
-987654321098765432 
